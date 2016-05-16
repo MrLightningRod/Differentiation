@@ -1,0 +1,7 @@
+Use () to enclose operators and [] to enclose variables or constants
+Examples (1 line = 1 expression)
+([x]+[2])
+([x]^[x])
+(cos([x]+(sin[x])))
+etc.
+Each opening bracket should have closing one.
